@@ -9,7 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
 
-	"github.com/acore2026/openapi/models"
+	"github.com/free5gc/openapi/models"
 )
 
 const (

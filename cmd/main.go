@@ -22,11 +22,11 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/acore2026/chf/internal/logger"
-	"github.com/acore2026/chf/pkg/factory"
-	"github.com/acore2026/chf/pkg/service"
-	logger_util "github.com/acore2026/util/logger"
-	"github.com/acore2026/util/version"
+	"github.com/free5gc/chf/internal/logger"
+	"github.com/free5gc/chf/pkg/factory"
+	"github.com/free5gc/chf/pkg/service"
+	logger_util "github.com/free5gc/util/logger"
+	"github.com/free5gc/util/version"
 )
 
 var CHF *service.ChfApp

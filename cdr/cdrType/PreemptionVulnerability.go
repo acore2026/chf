@@ -1,6 +1,6 @@
 package cdrType
 
-import "github.com/acore2026/chf/cdr/asn"
+import "github.com/free5gc/chf/cdr/asn"
 
 // Need to import "gofree5gc/lib/aper" if it uses "aper"
 

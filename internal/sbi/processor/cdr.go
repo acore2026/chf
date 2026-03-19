@@ -5,13 +5,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/acore2026/chf/cdr/asn"
-	"github.com/acore2026/chf/cdr/cdrConvert"
-	"github.com/acore2026/chf/cdr/cdrFile"
-	"github.com/acore2026/chf/cdr/cdrType"
-	chf_context "github.com/acore2026/chf/internal/context"
-	"github.com/acore2026/chf/internal/logger"
-	"github.com/acore2026/openapi/models"
+	"github.com/free5gc/chf/cdr/asn"
+	"github.com/free5gc/chf/cdr/cdrConvert"
+	"github.com/free5gc/chf/cdr/cdrFile"
+	"github.com/free5gc/chf/cdr/cdrType"
+	chf_context "github.com/free5gc/chf/internal/context"
+	"github.com/free5gc/chf/internal/logger"
+	"github.com/free5gc/openapi/models"
 )
 
 func (p *Processor) OpenCDR(

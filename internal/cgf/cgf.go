@@ -18,8 +18,8 @@ import (
 	ftpserver "github.com/fclairamb/ftpserverlib"
 	"github.com/jlaffaye/ftp"
 
-	"github.com/acore2026/chf/internal/logger"
-	"github.com/acore2026/chf/pkg/factory"
+	"github.com/free5gc/chf/internal/logger"
+	"github.com/free5gc/chf/pkg/factory"
 )
 
 type Cgf struct {

@@ -8,10 +8,10 @@ import (
 
 	"github.com/fiorix/go-diameter/diam/sm"
 
-	"github.com/acore2026/chf/internal/logger"
-	"github.com/acore2026/openapi/models"
-	"github.com/acore2026/openapi/oauth"
-	"github.com/acore2026/util/idgenerator"
+	"github.com/free5gc/chf/internal/logger"
+	"github.com/free5gc/openapi/models"
+	"github.com/free5gc/openapi/oauth"
+	"github.com/free5gc/util/idgenerator"
 )
 
 var chfContext CHFContext

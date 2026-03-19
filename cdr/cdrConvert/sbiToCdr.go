@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/acore2026/chf/cdr/asn"
-	"github.com/acore2026/chf/cdr/cdrType"
-	"github.com/acore2026/openapi/models"
+	"github.com/free5gc/chf/cdr/asn"
+	"github.com/free5gc/chf/cdr/cdrType"
+	"github.com/free5gc/openapi/models"
 )
 
 func MultiUnitUsageToCdr(

@@ -5,9 +5,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	chf_context "github.com/acore2026/chf/internal/context"
-	"github.com/acore2026/chf/internal/logger"
-	"github.com/acore2026/openapi/models"
+	chf_context "github.com/free5gc/chf/internal/context"
+	"github.com/free5gc/chf/internal/logger"
+	"github.com/free5gc/openapi/models"
 )
 
 type NFContextGetter func() *chf_context.CHFContext

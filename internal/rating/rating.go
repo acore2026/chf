@@ -10,11 +10,11 @@ import (
 	"github.com/fiorix/go-diameter/diam/dict"
 	"github.com/fiorix/go-diameter/diam/sm/smpeer"
 
-	charging_code "github.com/acore2026/chf/ccs_diameter/code"
-	charging_datatype "github.com/acore2026/chf/ccs_diameter/datatype"
-	chf_context "github.com/acore2026/chf/internal/context"
-	"github.com/acore2026/chf/internal/logger"
-	"github.com/acore2026/chf/pkg/factory"
+	charging_code "github.com/free5gc/chf/ccs_diameter/code"
+	charging_datatype "github.com/free5gc/chf/ccs_diameter/datatype"
+	chf_context "github.com/free5gc/chf/internal/context"
+	"github.com/free5gc/chf/internal/logger"
+	"github.com/free5gc/chf/pkg/factory"
 )
 
 func SendServiceUsageRequest(

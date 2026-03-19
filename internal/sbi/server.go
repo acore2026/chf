@@ -12,16 +12,16 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/sirupsen/logrus"
 
-	"github.com/acore2026/chf/internal/logger"
-	"github.com/acore2026/chf/internal/sbi/consumer"
-	"github.com/acore2026/chf/internal/sbi/processor"
-	"github.com/acore2026/chf/internal/util"
-	"github.com/acore2026/chf/pkg/app"
-	"github.com/acore2026/chf/pkg/factory"
-	"github.com/acore2026/openapi/models"
-	"github.com/acore2026/util/httpwrapper"
-	logger_util "github.com/acore2026/util/logger"
-	"github.com/acore2026/util/metrics"
+	"github.com/free5gc/chf/internal/logger"
+	"github.com/free5gc/chf/internal/sbi/consumer"
+	"github.com/free5gc/chf/internal/sbi/processor"
+	"github.com/free5gc/chf/internal/util"
+	"github.com/free5gc/chf/pkg/app"
+	"github.com/free5gc/chf/pkg/factory"
+	"github.com/free5gc/openapi/models"
+	"github.com/free5gc/util/httpwrapper"
+	logger_util "github.com/free5gc/util/logger"
+	"github.com/free5gc/util/metrics"
 )
 
 type ServerChf interface {
