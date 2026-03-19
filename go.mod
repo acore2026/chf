@@ -4,8 +4,8 @@ go 1.25.5
 
 require (
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
-	github.com/acore2026/openapi v1.2.3
-	github.com/acore2026/util v1.3.1
+	github.com/acore2026/openapi v1.2.4
+	github.com/acore2026/util v1.3.3
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/fclairamb/ftpserver v0.13.0
 	github.com/fclairamb/ftpserverlib v0.21.0
@@ -31,9 +31,9 @@ require (
 )
 
 require (
-	github.com/acore2026/aper v1.1.0 // indirect
-	github.com/acore2026/nas v1.2.2 // indirect
-	github.com/acore2026/ngap v1.1.2 // indirect
+	github.com/acore2026/aper v1.1.1 // indirect
+	github.com/acore2026/nas v1.2.3 // indirect
+	github.com/acore2026/ngap v1.1.3 // indirect
 	github.com/aws/aws-sdk-go v1.44.177 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bytedance/sonic v1.11.6 // indirect
