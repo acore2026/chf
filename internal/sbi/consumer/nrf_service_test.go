@@ -8,9 +8,9 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/mock/gomock"
 
-	chf_context "github.com/free5gc/chf/internal/context"
-	"github.com/free5gc/chf/pkg/app"
-	"github.com/free5gc/openapi"
+	chf_context "github.com/acore2026/chf/internal/context"
+	"github.com/acore2026/chf/pkg/app"
+	"github.com/acore2026/openapi"
 )
 
 func Test_nnrfService_RegisterNFInstance(t *testing.T) {

@@ -1,8 +1,8 @@
 package app
 
 import (
-	chf_context "github.com/free5gc/chf/internal/context"
-	"github.com/free5gc/chf/pkg/factory"
+	chf_context "github.com/acore2026/chf/internal/context"
+	"github.com/acore2026/chf/pkg/factory"
 )
 
 type App interface {

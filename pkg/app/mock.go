@@ -12,8 +12,8 @@ package app
 import (
 	reflect "reflect"
 
-	context "github.com/free5gc/chf/internal/context"
-	factory "github.com/free5gc/chf/pkg/factory"
+	context "github.com/acore2026/chf/internal/context"
+	factory "github.com/acore2026/chf/pkg/factory"
 	gomock "go.uber.org/mock/gomock"
 )
 

@@ -1,4 +1,4 @@
-module github.com/free5gc/chf
+module github.com/acore2026/chf
 
 go 1.25.5
 
@@ -9,8 +9,8 @@ require (
 	github.com/fclairamb/ftpserverlib v0.21.0
 	github.com/fclairamb/go-log v0.4.1
 	github.com/fiorix/go-diameter v3.0.2+incompatible
-	github.com/free5gc/openapi v1.2.3
-	github.com/free5gc/util v1.3.1
+	github.com/acore2026/openapi v1.2.3
+	github.com/acore2026/util v1.3.1
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.6.0
 	github.com/ishidawataru/sctp v0.0.0-20230406120618-7ff4192f6ff2 // indirect
@@ -47,9 +47,9 @@ require (
 	github.com/fclairamb/afero-s3 v0.3.1 // indirect
 	github.com/fclairamb/afero-snd v0.1.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
-	github.com/free5gc/aper v1.1.0 // indirect
-	github.com/free5gc/nas v1.2.2 // indirect
-	github.com/free5gc/ngap v1.1.2 // indirect
+	github.com/acore2026/aper v1.1.0 // indirect
+	github.com/acore2026/nas v1.2.2 // indirect
+	github.com/acore2026/ngap v1.1.2 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect

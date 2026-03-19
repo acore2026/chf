@@ -9,10 +9,10 @@ import (
 	"github.com/fiorix/go-diameter/diam/datatype"
 	"github.com/fiorix/go-diameter/diam/sm"
 
-	"github.com/free5gc/chf/internal/logger"
-	"github.com/free5gc/chf/pkg/factory"
-	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/util/idgenerator"
+	"github.com/acore2026/chf/internal/logger"
+	"github.com/acore2026/chf/pkg/factory"
+	"github.com/acore2026/openapi/models"
+	"github.com/acore2026/util/idgenerator"
 )
 
 // Init CHF Context from config file

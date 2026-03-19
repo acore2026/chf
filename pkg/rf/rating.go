@@ -32,11 +32,11 @@ import (
 	"github.com/fiorix/go-diameter/diam/sm"
 	"go.mongodb.org/mongo-driver/bson"
 
-	charging_datatype "github.com/free5gc/chf/ccs_diameter/datatype"
-	charging_dict "github.com/free5gc/chf/ccs_diameter/dict"
-	"github.com/free5gc/chf/internal/logger"
-	"github.com/free5gc/chf/pkg/factory"
-	"github.com/free5gc/util/mongoapi"
+	charging_datatype "github.com/acore2026/chf/ccs_diameter/datatype"
+	charging_dict "github.com/acore2026/chf/ccs_diameter/dict"
+	"github.com/acore2026/chf/internal/logger"
+	"github.com/acore2026/chf/pkg/factory"
+	"github.com/acore2026/util/mongoapi"
 )
 
 const chargingDatasColl = "policyData.ues.chargingData"

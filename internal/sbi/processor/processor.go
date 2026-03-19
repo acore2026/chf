@@ -1,6 +1,6 @@
 package processor
 
-import "github.com/free5gc/chf/pkg/app"
+import "github.com/acore2026/chf/pkg/app"
 
 type ProcessorChf interface {
 	app.App
