@@ -4,13 +4,13 @@ go 1.25.5
 
 require (
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
+	github.com/acore2026/openapi v1.2.3
+	github.com/acore2026/util v1.3.1
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/fclairamb/ftpserver v0.13.0
 	github.com/fclairamb/ftpserverlib v0.21.0
 	github.com/fclairamb/go-log v0.4.1
 	github.com/fiorix/go-diameter v3.0.2+incompatible
-	github.com/acore2026/openapi v1.2.3
-	github.com/acore2026/util v1.3.1
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.6.0
 	github.com/ishidawataru/sctp v0.0.0-20230406120618-7ff4192f6ff2 // indirect
@@ -31,6 +31,9 @@ require (
 )
 
 require (
+	github.com/acore2026/aper v1.1.0 // indirect
+	github.com/acore2026/nas v1.2.2 // indirect
+	github.com/acore2026/ngap v1.1.2 // indirect
 	github.com/aws/aws-sdk-go v1.44.177 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bytedance/sonic v1.11.6 // indirect
@@ -47,9 +50,6 @@ require (
 	github.com/fclairamb/afero-s3 v0.3.1 // indirect
 	github.com/fclairamb/afero-snd v0.1.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
-	github.com/acore2026/aper v1.1.0 // indirect
-	github.com/acore2026/nas v1.2.2 // indirect
-	github.com/acore2026/ngap v1.1.2 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
